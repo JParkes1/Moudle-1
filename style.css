@@ -1,0 +1,57 @@
+html {
+    background-color: darkslategrey;
+}
+
+Body {
+    width: 900px;
+    padding-top: 10px;
+    margin: 0 auto;
+}
+
+.Seasonal-holidays {
+    background-color: white;
+}
+
+.Spring {
+    background-color: rgb(254, 240, 158);
+}
+
+.Summer {
+    background-color:rgb(151,227,251);
+}
+
+.Autumn {
+    background-color: #9C2706;
+}
+
+.Winter {
+    background-color: steelblue;
+}
+
+p, ul{
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1, h2 {
+    font-family: 'Paytone One', sans-serif;
+}
+
+h1, h2, p {
+    text-align: center;
+}
+
+button {
+    font-family: 'Montserrat', sans-serif;
+    padding: 5px 15px;
+    text-align: center
+}
+
+.Autumn-p, .Spring-p, .Summer-p, .Winter-p {
+    border-radius: 25px;
+    width: 800px;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: yellow;
+  }
